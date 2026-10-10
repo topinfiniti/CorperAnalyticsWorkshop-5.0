@@ -1,6 +1,6 @@
-# Corper Analytics Workshop 5.0 — SQL Server Training
+# Corper Analytics Workshop 5.0  - Training on SQL Joins and Window Function
 
-## About the Project
+## About the Training
 
 This repository contains SQL Server training materials prepared for **Corper Analytics Workshop 5.0**. It is designed to help beginners develop practical SQL skills through hands-on exercises, query examples, and a PowerPoint presentation.
 
